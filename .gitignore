@@ -1,0 +1,8 @@
+dataset/
+body_models/smpl/
+CLIP-main/
+glove/
+prepare/
+save/
+t2m/
+splitmdm_1015.zip
